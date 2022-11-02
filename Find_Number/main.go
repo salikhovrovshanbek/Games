@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"Find_Number/functions"
+)
 
 func main() {
-	fmt.Println("")
+	functions.Start()
 }
