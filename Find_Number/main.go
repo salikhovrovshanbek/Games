@@ -7,3 +7,8 @@ import (
 func main() {
 	functions.Start()
 }
+
+// start func
+// uchta shansga func
+// rand generate func
+// result func
